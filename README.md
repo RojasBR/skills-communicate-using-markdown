@@ -1,4 +1,6 @@
-<header>
+# This is a header <header>
+
+# This is another header
 
 <!--
   <<< Author notes: Course header >>>
